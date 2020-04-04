@@ -1,5 +1,7 @@
 # Hugh Mann
 
+![Me](human-man-scan-190m-01.jpg)
+
 hugh.mann@realmail.com
 
 http://www.totalrealman.com
@@ -18,13 +20,17 @@ I wear human clothes and like human sports.
 
 **A normal human job** (4/1/2019 - 4/1/2020)
 
-Summary of your role
+Summary of your role:
 I did real work that a real boy would do.
-- Juggling **bold text**.
-- Using stairs (up **AND** down)
-- Assembling motorcars
-- Holding a 3 minute long conversation
+* Juggling **bold text**.
+* Using stairs (up **AND** down)
+* Assembling motorcars
+* Holding a 3 minute long conversation
 
 
 
-[University 1]: http://www.MIT.edu
+[MIT](http://www.MIT.edu)
+
+[Maybe YOU are a robot](http://www.captcha.net/)
+
+[Climbing stairs IS an accomplishment!](https://metro.co.uk/2018/02/26/climbing-stairs-always-killer-no-matter-fit-7342131/)
