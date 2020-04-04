@@ -28,11 +28,10 @@ I did real work that a real boy would do.
 * Holding a 3 minute long conversation
 
 
-My Place of work.
 [MIT](http://www.MIT.edu)
 
 [Maybe YOU are a robot](http://www.captcha.net/)
 
 [Climbing stairs IS an accomplishment!](https://metro.co.uk/2018/02/26/climbing-stairs-always-killer-no-matter-fit-7342131/)
 
-Test
+[Nice day to be young and made of skin don't you think?](https://www.youtube.com/watch?v=zpMEWBisteM)
