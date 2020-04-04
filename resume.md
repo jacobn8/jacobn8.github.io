@@ -16,7 +16,7 @@ I wear human clothes and like human sports.
 # Work Experience (only last 10 years)
 ## MIT (Cambridge, Massachusetts)
 
-* [Massachusetts Institute of Technology][]*
+* [Massachusetts Institute of Technology][] A famous human school.*
 
 **A normal human job** (4/1/2019 - 4/1/2020)
 
@@ -28,7 +28,7 @@ I did real work that a real boy would do.
 * Holding a 3 minute long conversation
 
 
-
+My Place of work.
 [MIT](http://www.MIT.edu)
 
 [Maybe YOU are a robot](http://www.captcha.net/)
