@@ -22,7 +22,7 @@ I wear human clothes and like human sports.
 
 ### Summary of your role:
 I did real work that a real boy would do.
-* Juggling **bold text**.
+* Juggling.
 * Using stairs (up **AND** down)
 * Assembling motorcars
 * Holding a 3 minute long conversation
